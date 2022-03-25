@@ -11,7 +11,7 @@
 - JS, HTML, CSS
 ```
 >
-#### <노코드> (그래도 4개월간 미친듯이 판 )
+#### <노코드> (그래도 4개월간 미친듯이 판 부분이라 정리해봄)
 ```
 - No-code(Webflow, Zapier, Airtable, Memberstack)
 ```
